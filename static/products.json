@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Timberland boots",
+        "description": "Leather boot crafted with your legs in mind",
+        "price": 50
+    },
+    {
+        "id": 2,
+        "name": "Product B",
+        "description": "This is Product B",
+        "price": 75
+    },
+    {
+        "id": 3,
+        "name": "Product B",
+        "description": "This is Product C",
+        "price": 75
+    },
+    {
+        "id": 4,
+        "name": "Product B",
+        "description": "This is Product C",
+        "price": 75
+    },
+    {
+        "id": 5,
+        "name": "Product B",
+        "description": "This is Product C",
+        "price": 75
+    }
+]

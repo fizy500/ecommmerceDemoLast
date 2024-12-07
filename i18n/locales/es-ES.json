@@ -1,0 +1,14 @@
+{
+    "welcome": "Bienvenue dans notre boutique en ligne!",
+    "product_title": "Titre du produit",
+    "product_price": "Prix",
+    "product_description": "Description",
+    "add_to_cart": "Ajouter au panier",
+    "product_a": "Botas Timberland",
+    "product_b": "Zapatillas Nike",
+    "product_c": "Botas Chelsea",
+    "product_a_price": "200",
+    "product_b_price": "250",
+    "product_c_price": "300"
+    
+  }

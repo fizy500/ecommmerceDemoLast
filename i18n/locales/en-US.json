@@ -1,0 +1,14 @@
+{
+    "welcome": "Welcome to our e-commerce store!",
+    "product_title": "Product Title",
+    "product_price": "Price",
+    "product_description": "Description",
+    "add_to_cart": "Add to Cart",
+    "product_a": "Timberland boots",
+    "product_b": "Nike Snikers",
+    "product_c": "Chelsea boots",
+    "product_a_price": "200",
+    "product_b_price": "250",
+    "product_c_price": "300"
+  }
+  
